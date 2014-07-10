@@ -7,4 +7,5 @@ deploy:
     secure: GZb1BM+k5dl5dP2XS86eFZ8e03c2nHwZFm6qqiVrL70kq5nuipSGPZeliyvuXdPGRusay9b3gm3YhV8Bf3FO0w16fbZKFkILKsIOUSLhkuSZaVRM8mOOdFvUL7UPvQ25EwWJiuVnujMW45by7nLB5OGe8nUGUNVNuBPjnw75Wqg=
   on:
     tags: true
+    all_branches: true
     repo: bendrucker/ironworker-helper
