@@ -1,0 +1,23 @@
+{
+  "name": "ironworker-helper",
+  "version": "1.0.0",
+  "description": "Iron.io's IronWorker Node Helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bendrucker/ironworker-helper.git"
+  },
+  "keywords": [
+    "iron.io",
+    "ironworker"
+  ],
+  "author": "Ben Drucker <bvdrucker@gmail.com> (http://bendrucker.me)",
+  "license": "ARR",
+  "bugs": {
+    "url": "https://github.com/bendrucker/ironworker-helper/issues"
+  },
+  "homepage": "https://github.com/bendrucker/ironworker-helper"
+}
